@@ -6,6 +6,7 @@ Category                        | Crates
 ------------------------------- | -------------------------------
 error&#160;handling             | [thiserror](https://crates.io/crates/thiserror), [anyhow](https://crates.io/crates/anyhow)
 testing                         | [insta](https://crates.io/crates/insta)
+performance                     | [cargo-flamegraph](https://crates.io/crates/flamegraph), [inferno](https://crates.io/crates/inferno)
 logging                         | [log](https://crates.io/crates/log), [fern](https://crates.io/crates/fern), [log4rs](https://crates.io/crates/log4rs)
 tracing                         | [tracing](https://crates.io/crates/tracing), [tracing-subscriber](https://crates.io/crates/tracing-subscriber), [tracing-appender](https://crates.io/crates/tracing-appender), [tracing-test](https://crates.io/crates/tracing-test), [opentelemetry](https://crates.io/crates/opentelemetry)
 metrics                         | [metrics](https://crates.io/crates/metrics), [prometheus](https://crates.io/crates/prometheus)
