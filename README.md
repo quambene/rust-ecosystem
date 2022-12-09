@@ -1,6 +1,6 @@
 # The Rust Ecosystem
 
-Categorization of widely-used crates in the Rust ecosystem.
+Categorization of (more or less) widely-used crates in the Rust ecosystem.
 
 Category                        | Crates
 ------------------------------- | -------------------------------
