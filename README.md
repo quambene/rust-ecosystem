@@ -30,6 +30,7 @@ websockets                      | [tungstenite](https://crates.io/crates/tungste
 message queue                   | [celery](https://crates.io/crates/celery), [message-io](https://crates.io/crates/message-io)
 database,&#160;SQL              | [postgres](https://crates.io/crates/postgres), [tokio-postgres](https://crates.io/crates/tokio-postgres), [sqlx](https://crates.io/crates/sqlx), [connectorx](https://crates.io/crates/connectorx)
 database,&#160;ORM              | [diesel](https://crates.io/crates/diesel)
+pool                            | [deadpool](https://crates.io/crates/deadpool)
 data&#160;processing            | [arrow](https://crates.io/crates/arrow), [arrow2](https://crates.io/crates/arrow2), [polars](https://crates.io/crates/polars), [csv](https://crates.io/crates/csv)
 inversion&#160;of&#160;control  | [inject](https://crates.io/crates/inject)
 CLI                             | [clap](https://crates.io/crates/clap), [structopt](https://crates.io/crates/structopt), [quicli](https://crates.io/crates/quicli), [ergo](https://crates.io/crates/ergo)
