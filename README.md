@@ -5,7 +5,7 @@ Categorization of (more or less) widely used crates in the Rust ecosystem.
 Category                        | Crates
 ------------------------------- | -------------------------------
 error&#160;handling             | [thiserror](https://crates.io/crates/thiserror), [anyhow](https://crates.io/crates/anyhow)
-testing                         | [assert_matches](https://crates.io/crates/assert_matches), [insta](https://crates.io/crates/insta), [tokio-test](https://crates.io/crates/tokio-test), [tracing-test](https://crates.io/crates/tracing-test), [rstest](https://crates.io/crates/rstest)
+testing                         | [assert_matches](https://crates.io/crates/assert_matches), [insta](https://crates.io/crates/insta), [tokio-test](https://crates.io/crates/tokio-test), [tracing-test](https://crates.io/crates/tracing-test), [rstest](https://crates.io/crates/rstest), [test-case](https://crates.io/crates/test-case)
 performance                     | [cargo-flamegraph](https://crates.io/crates/flamegraph), [inferno](https://crates.io/crates/inferno)
 logging                         | [log](https://crates.io/crates/log), [fern](https://crates.io/crates/fern), [log4rs](https://crates.io/crates/log4rs)
 tracing                         | [tracing](https://crates.io/crates/tracing), [tracing-subscriber](https://crates.io/crates/tracing-subscriber), [tracing-appender](https://crates.io/crates/tracing-appender), [tracing-test](https://crates.io/crates/tracing-test), [opentelemetry](https://crates.io/crates/opentelemetry)
@@ -35,7 +35,7 @@ data&#160;processing            | [arrow](https://crates.io/crates/arrow), [arro
 inversion&#160;of&#160;control  | [inject](https://crates.io/crates/inject)
 CLI                             | [clap](https://crates.io/crates/clap), [structopt](https://crates.io/crates/structopt), [quicli](https://crates.io/crates/quicli), [ergo](https://crates.io/crates/ergo)
 scripting                       | [cargo-script](https://crates.io/crates/cargo-script), [dyon](https://crates.io/crates/dyon), [rustscript](https://github.com/faern/rustscript), [ion](https://github.com/redox-os/ion), [runner](https://crates.io/crates/runner), [mlua](https://crates.io/crates/mlua), [rhai](https://crates.io/crates/rhai)
-GUI                             | [egui](https://crates.io/crates/egui), [edom](https://crates.io/crates/edom), [tauri](https://crates.io/crates/tauri), [druid](https://crates.io/crates/druid), [iced](https://crates.io/crates/iced), [kas](https://crates.io/crates/kas), [dioxus](https://crates.io/crates/dioxus), [yew](https://crates.io/crates/yew)
+GUI                             | [egui](https://crates.io/crates/egui), [edom](https://crates.io/crates/edom), [tauri](https://crates.io/crates/tauri), [druid](https://crates.io/crates/druid), [iced](https://crates.io/crates/iced), [kas](https://crates.io/crates/kas), [dioxus](https://crates.io/crates/dioxus), [yew](https://crates.io/crates/yew), [leptos](https://crates.io/crates/leptos)
 embedded                        | [cortex-m](https://crates.io/crates/cortex-m), [cortex-m-rt](https://crates.io/crates/cortex-m-rt), [cortex-m-semihosting](https://crates.io/crates/cortex-m-semihosting)
 wasm                            | [wasm-bindgen](https://crates.io/crates/wasm-bindgen), [wasm-bindgen-cli](https://crates.io/crates/wasm-bindgen-cli)
 compiler                        | [ferrocene](https://crates.io/crates/ferrocene)
