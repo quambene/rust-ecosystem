@@ -15,6 +15,7 @@ time                            | [std::time](https://doc.rust-lang.org/std/time
 email                           | [lettre](https://crates.io/crates/lettre), [rusoto_ses](https://crates.io/crates/rusoto_ses), [rusoto_credential](https://github.com/quambene/pigeon-rs/blob/master/Cargo.toml)
 serialization/deserialization   | [serde](https://crates.io/crates/serde), [serde_json](https://crates.io/crates/serde_json), [serde_path_to_error](https://crates.io/crates/serde_path_to_error), [serde_yaml](https://crates.io/crates/serde_yaml), [rkyv](https://crates.io/crates/rkyv)
 encoding/decoding               | [base64](https://crates.io/crates/base64)
+parsing                         | [quick-xml](https://crates.io/crates/quick-xml), [csv](https://crates.io/crates/csv)
 encryption                      | [ring](https://crates.io/crates/ring), [rustls](https://crates.io/crates/rustls)
 authentication,&#160;JWT        | [jsonwebtoken](https://crates.io/crates/jsonwebtoken)
 futures                         | [futures::future::Future](https://docs.rs/futures/latest/futures/future/trait.Future.html), [futures::future::FutureExt](https://docs.rs/futures/latest/futures/future/trait.FutureExt.html)
