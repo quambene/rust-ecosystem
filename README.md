@@ -26,7 +26,7 @@ channels                        | [std::sync::mpsc](https://doc.rust-lang.org/st
 async&#160;runtime              | [tokio](https://crates.io/crates/tokio)
 concurrency                     | [dashmap](https://crates.io/crates/dashmap)
 parallelism                     | [rayon](https://crates.io/crates/rayon), [parallel-stream](https://crates.io/crates/parallel-stream)
-HTTP&#160;client                | [reqwest](https://crates.io/crates/reqwest)
+HTTP&#160;client                | [reqwest](https://crates.io/crates/reqwest), [ureq](https://crates.io/crates/ureq), [isahc](https://crates.io/crates/isahc)
 HTTP&#160;server                | [actix-web](https://crates.io/crates/actix-web), [hyper](https://crates.io/crates/hyper), [tower](https://crates.io/crates/tower), [axum](https://crates.io/crates/axum), [rocket](https://crates.io/crates/rocket), [tide](https://crates.io/crates/tide)
 gRPC                            | [tonic](https://crates.io/crates/tonic), [prost](https://crates.io/crates/prost), [prost-types](https://crates.io/crates/prost-types), [prost-reflect](https://crates.io/crates/prost-reflect), [protobuf](https://crates.io/crates/protobuf), [protobuf-parse](https://crates.io/crates/protobuf-parse)
 websockets                      | [tungstenite](https://crates.io/crates/tungstenite), [tokio-tungstenite](https://crates.io/crates/tokio-tungstenite), [actix-web-actors](https://crates.io/crates/actix-web-actors)
