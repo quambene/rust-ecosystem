@@ -6,6 +6,7 @@ Category                        | Crates
 ------------------------------- | -------------------------------
 error&#160;handling             | [thiserror](https://crates.io/crates/thiserror), [anyhow](https://crates.io/crates/anyhow)
 testing                         | [assert_matches](https://crates.io/crates/assert_matches), [insta](https://crates.io/crates/insta), [tokio-test](https://crates.io/crates/tokio-test), [tracing-test](https://crates.io/crates/tracing-test), [rstest](https://crates.io/crates/rstest), [test-case](https://crates.io/crates/test-case)
+mocking                         | [wiremock](https://crates.io/crates/wiremock)
 code coverage                   | [cargo-tarpaulin](https://crates.io/crates/cargo-tarpaulin), [cargo-llvm-cov](https://crates.io/crates/cargo-llvm-cov)
 performance                     | [cargo-flamegraph](https://crates.io/crates/flamegraph), [inferno](https://crates.io/crates/inferno), [criterion](https://crates.io/crates/criterion)
 logging                         | [log](https://crates.io/crates/log), [fern](https://crates.io/crates/fern), [log4rs](https://crates.io/crates/log4rs)
