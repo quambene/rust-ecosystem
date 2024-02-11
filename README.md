@@ -18,7 +18,7 @@ email                           | [lettre](https://crates.io/crates/lettre), [ru
 serialization/deserialization   | [serde](https://crates.io/crates/serde), [serde_json](https://crates.io/crates/serde_json), [serde_path_to_error](https://crates.io/crates/serde_path_to_error), [serde_yaml](https://crates.io/crates/serde_yaml), [rkyv](https://crates.io/crates/rkyv)
 encoding/decoding               | [base64](https://crates.io/crates/base64)
 mime type (media type)          | [infer](https://crates.io/crates/infer)
-parsing                         | [csv](https://crates.io/crates/csv)
+parsing                         | [csv](https://crates.io/crates/csv), [plist](https://crates.io/crates/plist)
 xml                             | [xml-rs](https://crates.io/crates/xml-rs), [quick-xml](https://crates.io/crates/quick-xml), [xmlparser](https://crates.io/crates/xmlparser), [roxmltree](https://crates.io/crates/roxmltree), [xot](https://crates.io/crates/xot)
 encryption                      | [ring](https://crates.io/crates/ring), [rustls](https://crates.io/crates/rustls)
 authentication,&#160;JWT        | [jsonwebtoken](https://crates.io/crates/jsonwebtoken)
